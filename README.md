@@ -1,7 +1,11 @@
 # PerformanceTestTFL
-### Objective:
+### Introduction:
 
-To test the performance of a journey planner functionality of TFL web application with different FROM and TO stations using parameterization.
+This document provides an overview of the Journey Planner script with the capability to search for different From and To stations using parameterization. 
+
+### Test Scenario:
+
+The objective of the test scenario is to validate the performance of the Journey Planner functionality of TFL web application by performing a search for different stations as inputs using parameterization.
 
 ### Testplan Creation:
 
@@ -43,5 +47,5 @@ For TFL_02_Planmyjourney_FutureDate:
 
 I executed the test plan twice. 
 
-	> The first time, I executed the test with embedded resources and the results were attached with the name "TFL_PlanMyJourney_TestReport_embeddedresource.xlsx". 
-	> The second time, I executed the test without embedded resources and the results were attached with the name "TFL_PlanMyJourney_TestReport.xlsx"
+	> Execution 1: Test executed with embedded resources, results are attached with name "TFL_PlanMyJourney_TestReport_embeddedresource.xlsx". 
+	> Execution 2: Test executed without embedded resources, results are attached with name "TFL_PlanMyJourney_TestReport.xlsx"
