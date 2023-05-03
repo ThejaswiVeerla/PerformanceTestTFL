@@ -1,0 +1,59 @@
+p_Fromid,p_Fromstop,p_Toid,p_Tostop
+1000226,Stratford,1000201,Seven Sisters
+1000138,Liverpool Street,1000263,West Hampstead
+1000101,Harrow & Wealdstone,1000129,King's Cross & St Pancras International
+1000242,Upminster,1000224,Stonebridge Park
+1000260,West Brompton,1000040,Cannon Street
+1000262,West Ham,1000169,Old Street
+1001243,Romford Rail Station,1001079,Custom House
+1000249,Walthamstow Central,1001055,Chadwell Heath Rail Station
+1000073,Elephant & Castle,1001115,Gidea Park Rail Station
+1000267,West Ruislip,1001117,Goodmayes Rail Station
+1000077,Euston,1001135,Hanwell Rail Station
+1000427,Colindale Superstores,1001144,Hayes & Harlington Rail Station
+1000513,Court Way  Colindale,1000054,Colindale Underground Station
+1019348,Colindeep Lane  The Hyde,1005481,Colindale Avenue
+1019349,Colin Park Road,1005483,Colindeep Lane
+1019350,Colindeep Bridge,1007070,Colindale Library
+1019351,Colindeep Lane,1007285,Colinton Road
+1000201,Seven Sisters,1000226,Stratford
+1000263,West Hampstead,1000138,Liverpool Street
+1000129,King's Cross & St Pancras International,1000101,Harrow & Wealdstone
+1000224,Stonebridge Park,1000242,Upminster
+1000040,Cannon Street,1000260,West Brompton
+1000169,Old Street,1000262,West Ham
+1001079,Custom House,1001243,Romford Rail Station
+1001055,Chadwell Heath Rail Station,1000249,Walthamstow Central
+1001115,Gidea Park Rail Station,1000073,Elephant & Castle
+1001117,Goodmayes Rail Station,1000267,West Ruislip
+1001135,Hanwell Rail Station,1000077,Euston
+1001144,Hayes & Harlington Rail Station,1000427,Colindale Superstores
+1000054,Colindale Underground Station,1000513,Court Way  Colindale
+1005481,Colindale Avenue,1019348,Colindeep Lane  The Hyde
+1005483,Colindeep Lane,1019349,Colin Park Road
+1007070,Colindale Library,1019350,Colindeep Bridge
+1007285,Colinton Road,1019351,Colindeep Lane
+1000108,Highbury & Islington,1000268,Whitechapel
+1000186,Queen's Park,1000038,Canary Wharf
+1000235,Tottenham Court Road,1000104,Heathrow Airport Terminal 4
+1000094,Gunnersbury,1016430,Heathrow Airport Terminal 5
+1000271,Willesden Junction,1000080,Farringdon
+1000083,Finsbury Park,1000015,Barking
+1000214,South Ruislip,1000101,Harrow & Wealdstone
+1000247,Vauxhall,1000170,Kensington (Olympia)
+1001040,Bruce Grove Rail Station,1000186,Queen's Park
+1001233,Queens Road Peckham Rail Station,1000263,West Hampstead
+1001299,Turkey Street Rail Station,1000256,Wembley Central
+1001041,Bushey,1000262,West Ham
+1001069,Clapham Junction,1000129,King's Cross & St Pancras International
+1001216,Norwood Junction,1001243,Romford Rail Statio
+1001317,Watford Junction,1000235,Tottenham Court Road
+1001180,Limehouse,1000024,Blackhorse Road
+1001018,Beckenham Junction,1000100,Harlesden
+1001194,Mitcham Junction,1000122,Kensal Green
+1002018,Blackwall DLR Station,1000015,Barking
+1000015,Barking,1000262,West Ham
+1000226,Stratford,1000015,Barking
+1000015,Barking,1000242,Upminster
+1002074,South Quay DLR Station,1000138,Liverpool Street
+1000174,Paddington,1000015,Barking
